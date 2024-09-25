@@ -62,7 +62,7 @@ The data for this project was sourced from an Excel file, created using data fro
 - `VAR & RETURN`: For defining variables in DAX measures.
 - `PREVIOUSMONTH`: For analyzing trends from the previous month.
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
 
 ## Live Dashboard 🌐
 You can view the live dashboard for this project [here](https://app.powerbi.com/view?r=eyJrIjoiODk0NTFkMDQtODNiMi00Mjc2LTgyMWEtYTVmMWQ0Mjc3NjcwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
